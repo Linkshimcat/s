@@ -10,4 +10,4 @@
 <img width="2544" height="1026" alt="image" src="https://github.com/user-attachments/assets/52e64e05-cddf-4784-ac31-67648634a986" />
 
 
-링크: AI.html
+링크: [AI.html](https://github.com/Linkshimcat/s/blob/main/AI.html)
